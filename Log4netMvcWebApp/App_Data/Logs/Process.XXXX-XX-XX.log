@@ -1,0 +1,4 @@
+XXXXXXXX INFO  Log4netMvcWebApp.Controllers.DefaultController /LM/W3SVC/11/ROOT-1-130983460539237492 (null) [8] Info Logging test
+XXXXXXXX WARN  Log4netMvcWebApp.Controllers.DefaultController /LM/W3SVC/11/ROOT-1-130983460539237492 (null) [8] Warn Logging test
+XXXXXXXX ERROR Log4netMvcWebApp.Controllers.DefaultController /LM/W3SVC/11/ROOT-1-130983460539237492 (null) [8] Error Logging test
+XXXXXXXX FATAL Log4netMvcWebApp.Controllers.DefaultController /LM/W3SVC/11/ROOT-1-130983460539237492 (null) [8] Fatal Logging test
